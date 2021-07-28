@@ -234,7 +234,7 @@ section .container .contsctForm .fromBox .inputBox input[type="submit"]:hover
 		box-shadow: none;
 	}
 }
-@media (max-width : 991px)
+@media (max-width : 1200px)
 {
 	section
 	{
@@ -268,11 +268,13 @@ section .container .contsctForm .fromBox .inputBox input[type="submit"]:hover
 		align-items: center;
 	}
 }
-@media (max-width : 600px)
+@media (max-width : 800px)
 {
 	section .container .contsctForm
 	{
 		padding: 25px;
+		weight: 100%;
+		height: auto;
 	}
 	section .container .contactinfo
 	{
@@ -320,10 +322,3 @@ section .container .contsctForm .fromBox .inputBox input[type="submit"]:hover
     pointer-events: none;
   }
 }
-
-
-
-
-
-
-

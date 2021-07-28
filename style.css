@@ -226,7 +226,7 @@ section .container .contsctForm .fromBox .inputBox input[type="submit"]:hover
 	section .container .contsctForm
 	{
 		position: relative;
-		width: calc(100% - 110px);
+		width: calc(100% - 100px);
 		padding-left: 0;
 		margin-left: 0;
 		padding: 40px;
